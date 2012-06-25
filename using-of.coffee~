@@ -1,0 +1,4 @@
+// 'of' is used to iterate over property whereas 'in' is used to iterate over arrays 
+names = sam: "seaborn", donna: "moss"
+alert("#{first} #{last}") for first, last of names
+
